@@ -41,6 +41,6 @@ Investigate and develop a statistical and computational framework to test, analy
 
 Identifying the complex causes of potential mission or weapon system failure (or success) and determining effective responses to preventing (or ensuring) such requires leveraging best in class data analytics techniques on rapidly growing, but often poorly structured, data. To facilitate this approach, natural language processing (NLP) and related machine learning tools such as knowledge graphs can be harnessed to gain insight and answer these critical questions.       
 
-# Framework Infrastructure Development: (Charles Vardeman II)
-The T&E Web UI and Framework provides a graphical user interface and backend framework for connecting the various components and toolboxes together into a single coherent system.  This component essentially provides a sandbox for Crane T&E to interact with, to define information surrounding an AI instance, to document and define the T&E activities undertaken, and to help automate testing. Reference: https://la3d.github.io/nuggets/posts/frameworks-reflection/
+## Framework Infrastructure Development: (Charles Vardeman II)
+The T&E Web UI and Framework provides a graphical user interface and backend framework for connecting the various components and toolboxes together into a single coherent system.  This component essentially provides a sandbox for Crane T&E to interact with, to define information surrounding an AI instance, to document and define the T&E activities undertaken, and to help automate testing. Reference: https://la3d.github.io/nuggets/posts/frameworks-reflection/.
  
