@@ -1,3 +1,8 @@
+# Trusted AI
+A brief summary of the Trusted AI Research at University of Notre Dame for Crane Surface Warfare Center can be found below.
+
+Further information can be found at https://nd-crane.github.io
+
 ## The Challenge
 <img src="./profile/images/attack.png" alt="drawing" width="800"/>
 
