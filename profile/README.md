@@ -10,7 +10,7 @@ Develop a systematic test and evaluation framework for AI that addresses the fol
 * Developing AI Workforce and Talent
 
 ## Technical Approach:
-<img src="./images/circle.png" alt="drawing" width="400"/>
+<img src="./profile/images/circle.png" alt="drawing" width="400"/>
 
 ## Circle of Trust
 For Trusted AI to succeed we need to develop a “circle of trust” where all AI activities follow best practices based on our 6 dimensions.
