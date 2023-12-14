@@ -1,5 +1,5 @@
 ## The Challenge
-<img src="./images/attack.png" alt="drawing" width="800"/>
+<img src="./profile/images/attack.png" alt="drawing" width="800"/>
 
 ## The Objective: 
 Develop a systematic test and evaluation framework for AI that addresses the following
